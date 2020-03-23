@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/stradtkt/Microposts-JS/issues"
   },
-  "homepage": "https://github.com/stradtkt/Microposts-JS#readme"
+  "homepage": "https://github.com/stradtkt/Microposts-JS#readme",
+  "dependencies": {
+    "json-server": "^0.16.1"
+  }
 }
